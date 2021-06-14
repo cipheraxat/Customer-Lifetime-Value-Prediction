@@ -1,4 +1,4 @@
-# Customer-Lifetime-Value-Prediction
+# Customer-Lifetime-Value-Prediction-webapp
 
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#
