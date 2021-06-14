@@ -23,15 +23,15 @@ from lifetimes import ParetoNBDFitter
 from lifetimes.plotting import plot_history_alive
 from sklearn.metrics import mean_squared_error, r2_score
 
-st.markdown(""" # Customer Lifetime Prediction App 👋
+st.markdown(""" # Customer Lifetime Predicting  WebApp (CLPW) 👋
 
 
-Upload the RFM data and get your customer lifetime prediction on the fly !!! :smile:
+Upload the RFM(Recency, Frequency, and Monetary value) data and get your customer lifetime prediction on the fly !!! :smile:
 
 	""")
 
 
-st.image("https://sarasanalytics.com/wp-content/uploads/2019/11/Customer-Lifetime-value-new-1.jpg", use_column_width = True)
+st.image("https://www.singlegrain.com/wp-content/uploads/2020/01/calculation-for-customer-lifetime-value.jpg", use_column_width = True)
 
 
 data = st.file_uploader("File Uploader")
@@ -45,7 +45,7 @@ st.sidebar.title("Input Features :pencil:")
 
 st.sidebar.markdown("""
 
-[Example CSV Input File](https://raw.githubusercontent.com/mukulsinghal001/customer-lifetime-prediction-using-python/main/model_deployment/sample_file.csv)
+[Example CSV Input File](https://github.com/cipheraxat/Customer-Lifetime-Value-Prediction/blob/main/data%20files/sample_file.csv)
 
 	""")
 
@@ -77,7 +77,7 @@ st.sidebar.markdown("""
 
 Before uploading the file, please select the input features first.
 
-Also, please make sure the columns are in proper format. For reference you can download the [dummy data](https://raw.githubusercontent.com/mukulsinghal001/customer-lifetime-prediction-using-python/main/model_deployment/sample_file.csv).
+Also, please make sure the columns are in proper format. For reference you can download the [dummy data](https://github.com/cipheraxat/Customer-Lifetime-Value-Prediction/blob/main/data%20files/sample_file.csv).
 
 **Note:** Only Use "CSV" File.
 
