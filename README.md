@@ -24,3 +24,6 @@ Attribute Information:
 7) CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 
 8) Country: Country name. Nominal, the name of the country where each customer resides.
+
+
+Model Deployment - https://share.streamlit.io/cipheraxat/customer-lifetime-value-prediction/main/model_deployment/streamlit_app.py
