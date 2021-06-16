@@ -81,6 +81,7 @@ Also, please make sure the columns are in proper format. For reference you can d
 
 **Note:** Only Use "CSV" File.
 
+Wanna know what CLV is and why is it important for your business. 🤔 [Click here](https://piwik.pro/blog/customer-lifetime-value-important-for-your-business/)
 	""")
 
 
