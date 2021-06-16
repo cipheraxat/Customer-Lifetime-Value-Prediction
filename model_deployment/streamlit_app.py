@@ -36,7 +36,7 @@ st.image("https://www.singlegrain.com/wp-content/uploads/2020/01/calculation-for
 
 data = st.file_uploader("File Uploader")
 
-st.sidebar.image("/home/akshat/Documents/customer-lifetime-prediction-using-python-main/model_deployment/doge.jpg", width = 250)
+st.sidebar.image("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-2000w,f_auto,q_auto:best/newscms/2021_23/3481186/210608-doge-nft-2x1-cs.jpg", width = 250)
 st.sidebar.markdown(""" **Made with :heart: by Akshat Anand** """)
 
 
