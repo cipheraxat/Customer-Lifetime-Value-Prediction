@@ -23,7 +23,7 @@ from lifetimes import ParetoNBDFitter
 from lifetimes.plotting import plot_history_alive
 from sklearn.metrics import mean_squared_error, r2_score
 
-st.markdown(""" # Customer Lifetime Predicting  WebApp (CLPW) 👋
+st.markdown(""" # Survival Analysis using CLV WebApp 👋
 
 
 Upload the RFM(Recency, Frequency, and Monetary value) data and get your customer lifetime prediction on the fly !!! :smile:
